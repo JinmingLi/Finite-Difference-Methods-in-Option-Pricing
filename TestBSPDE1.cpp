@@ -1,9 +1,6 @@
 // TestBSPDE1.cpp
 //
 // Testing 1 factor BS model.
-//
-// (C) Datasim Education BV 2005-2011
-//
 
 #include "FdmDirector.hpp"
 
