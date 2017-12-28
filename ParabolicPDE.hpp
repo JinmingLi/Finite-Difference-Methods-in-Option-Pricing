@@ -1,14 +1,7 @@
 // ParabolicPDE.hpp
 //
 // Namespace containing the function pointers and data
-// that represent the defining parameters of the initial 
-// boundary value problem for the 1 factor Black Scholes 
-// PDE.
-//
-//	2005-1-5 DD Kick-off code
-//
-// (C) Datasim Education BV 2005
-//
+// that represent the defining parameters of the initial boundary value problem for the 1 factor Black Scholes PDE.
 
 #ifndef ParabolicIBVP_HPP
 #define ParabolicIBVP_HPP
