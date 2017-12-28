@@ -1,13 +1,7 @@
 // FDMDirector.hpp
 //
 // The class that drives the whole FDM process. It
-// mediates between the Mesh generation class and the 
-// FDM class.
-//
-// This class computes the solution up to t = T (expiry).
-//
-// (C) Datasim Education BV 2005-2011
-//
+// mediates between the Mesh generation class and the  FDM class. This class computes the solution up to t = T (expiry).
 
 #ifndef FDMDirector_HPP
 #define FDMDirector_HPP
