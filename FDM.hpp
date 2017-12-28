@@ -1,12 +1,7 @@
 // FDM.cpp
 //
-// FDM scheme for 1 factor Black Scholes equation. For the
-// moment we assume explicit Euler.
-//
-// The responsibility of this class is to 
-// (C) Datasim Education BV 2005
-//
-//
+// FDM scheme for 1 factor Black Scholes equation. For the moment we assume explicit Euler.
+
 
 #ifndef FDM_CPP
 #define FDM_CPP
